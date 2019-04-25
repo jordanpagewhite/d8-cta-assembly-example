@@ -14,4 +14,3 @@ and here is a table that describes the fields / data structure of the CTA assemb
 * [ Creating the CTA assembly type ](./steps/1-creating-the-cta-assembly-type.md)
 * [ Adding assembly reference fields to entities ](./steps/2-adding-assembly-reference-fields.md)
 * [ Creating and re-using assembly content ](./steps/3-creating-assembly-content.md)
-* [ AssemblyBuild plugins ](./steps/4-assemblybuild-plugins.md)

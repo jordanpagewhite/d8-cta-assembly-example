@@ -36,3 +36,6 @@ On this page, click on the Add Field button and create each of the fields in the
 3. Now that we've added fields to our CTA assembly type, we have to configure the field formatter on the Manage Display tab here: `/admin/structure/assembly/call_to_action/display`. This is how we want to configure our display mode for the CTA assembly type:
 
 ![CTA Manage Display](../img/cta-assembly-type-manage-display.png "CTA Manage Display")
+
+[Previous Page](./0-design-and-fe-component.md)
+[Next Page](2-adding-assembly-reference-fields.md)

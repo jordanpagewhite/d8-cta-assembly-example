@@ -9,4 +9,8 @@ To make this assembly type available from any of our content types (or fieldable
 5. Click the 'Save field settings' button.
 6. On this page (Content settings for Article), you will need to scroll down to the Reference type section and check all of the assembly type(s) you want to make reference-able from this Content field. In this example, we want to make sure the Call to action assembly type is checked. It should look something like this screenshot:
 
-![CTA Assembly Type Add ERR Field](../img/cta-assembly-type-add-err-field.png.png "CTA Assembly Type Add ERR Field")
+![CTA Assembly Type Add ERR Field](../img/cta-assembly-type-add-err-field.png "CTA Assembly Type Add ERR Field")
+
+[Previous page](./1-creating-the-cta-assembly-type.md)
+[Next page](./3-creating-assembly-content.md)
+

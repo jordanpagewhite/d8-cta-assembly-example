@@ -100,3 +100,5 @@ Here is an example mockup, the markup and styles required to create a CTA compon
   }
 }
 ```
+
+[Next page](./1-creating-the-cta-assembly-type.md)

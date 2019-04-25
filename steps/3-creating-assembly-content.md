@@ -21,3 +21,5 @@ Here is a demonstration of how we could add an existing CTA assembly to our Cont
 This is what the Content field will look like after we've added a CTA assembly to our Content field:
 
 ![Content Field Table](../img/content-field-table-with-referenced-assembly.png "Content Field Table")
+
+[Previous page](./2-adding-assembly-reference-fields.md)

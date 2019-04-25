@@ -8,7 +8,7 @@ and here is a table that describes the fields / data structure of the CTA assemb
 
 ![CTA Data Structure](./img/cta-data-structure.png "CTA Data Structure")
 
-## Steps
+## Steps to create a CTA assembly type
 
 * [ Starting with a design and/or front-end component ](./steps/0-design-and-fe-component.md)
 * [ Creating the CTA assembly type ](./steps/1-creating-the-cta-assembly-type.md)

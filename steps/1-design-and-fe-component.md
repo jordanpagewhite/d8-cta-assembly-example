@@ -1,12 +1,19 @@
-# Starting with a design and/or front-end component 
+# FE: Starting with a design and/or front-end component 
 
-Here is an example mockup, the markup and styles required to create a CTA component.
+## Roles
 
-### CTA Assembly Mockup Example
+* Primarily a FE developer to create the markup, styles and scripts required to create this component
+* There would likely be collaboration and review with the UX team member who designed this component throughout this step
+
+## CTA Assembly Mockup Example
+
+Here is a reminder of what the mockup looked like in our last step.
 
 ![CTA Assembly Type Example](../img/cta-component.png "CTA Assembly Type Example")
 
-### CTA Assembly Markup (Twig)
+## CTA Assembly Markup (Twig)
+
+This is an example of what the CTA assembly markup (Twig) could be:
 
 ```twig
 {#
@@ -38,7 +45,9 @@ Here is an example mockup, the markup and styles required to create a CTA compon
 </section>
 ```
 
-### CTA Assembly styles
+## CTA Assembly styles
+
+This is an example of the styles of our CTA assembly type could be:
 
 ```scss
 .assembly-type-call_to_action {
@@ -101,4 +110,9 @@ Here is an example mockup, the markup and styles required to create a CTA compon
 }
 ```
 
-[Next page](./1-creating-the-cta-assembly-type.md)
+### Deliverables
+
+* The HTML markup (probably Twig) and assets (CSS, SCSS, JS, possibly images, etc.) required to satisfy the mockups.
+
+[Previous page](./0-ux-mockup-and-data-structure.md)
+[Next page](./2-creating-the-cta-assembly-type.md)

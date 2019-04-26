@@ -1,4 +1,10 @@
-# Creating Assembly content
+# Editor: Creating Assembly content
+
+## Roles
+
+* Editor
+
+## Steps
 
 To demonstrate adding a CTA assembly to an Article, lets add a new Article: `/node/add/article`. You'll see our Content assembly reference field:
 
@@ -22,4 +28,8 @@ This is what the Content field will look like after we've added a CTA assembly t
 
 ![Content Field Table](../img/content-field-table-with-referenced-assembly.png "Content Field Table")
 
-[Previous page](./2-adding-assembly-reference-fields.md)
+## Deliverables
+
+* We've created a CTA assembly on some Article node on our Drupal site
+
+[Previous page](./4-export-config.md)

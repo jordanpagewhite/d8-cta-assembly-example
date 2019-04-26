@@ -1,5 +1,11 @@
 # Adding assembly reference fields
 
+## Roles
+
+* A Drupal developer
+
+## Steps
+
 To make this assembly type available from any of our content types (or fieldable entities generally), we will add an assembly reference (entity reference revisions) field to our entity. For this example, I will demonstrate adding a Content field to our Article content type.
 
 1. Go here to view the fields on our Article content type: `/admin/structure/types/manage/article/fields`
@@ -11,6 +17,9 @@ To make this assembly type available from any of our content types (or fieldable
 
 ![CTA Assembly Type Add ERR Field](../img/cta-assembly-type-add-err-field.png "CTA Assembly Type Add ERR Field")
 
-[Previous page](./1-creating-the-cta-assembly-type.md)
-[Next page](./3-creating-assembly-content.md)
+## Deliverables
 
+* Our CTA assembly type can be referenced from the Content field of our Article content type
+
+[Previous page](./2-creating-the-cta-assembly-type.md)
+[Next page](./4-export-config.md)

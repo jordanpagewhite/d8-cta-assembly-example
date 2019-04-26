@@ -1,4 +1,10 @@
-# Creating the CTA assembly type
+# Drupal: Creating the CTA assembly type
+
+## Roles
+
+* A Drupal developer: This could be any developer/anyone that is proficient in utilizing the Drupal admin UI.
+
+## Creating the assembly type
 
 1. Go to `/admin/structure/assembly/add` to add an assembly type
   * Add a label: `Call to Action`
@@ -10,7 +16,7 @@ left|Left|Left aligned content
 dark|Dark|Dark background with white text
 ```
 
-Visual styles are a way to provide a configurable set of styles that an editor/content author can use on an assembly to provide variations of a component (like a BEM modifier). These are the styles, which you can review in full on the [previous page](./0-design-and-fe-component.md), for the Left and Dark visual styles:
+Visual styles are a way to provide a configurable set of styles that an editor/content author can use on an assembly to provide variations of a component (like a BEM modifier). These are the styles, which you can review in full on the [previous page](./1-design-and-fe-component.md), for the Left and Dark visual styles:
 
 ```scss
 &.left {
@@ -37,5 +43,9 @@ On this page, click on the Add Field button and create each of the fields in the
 
 ![CTA Manage Display](../img/cta-assembly-type-manage-display.png "CTA Manage Display")
 
-[Previous Page](./0-design-and-fe-component.md)
-[Next Page](2-adding-assembly-reference-fields.md)
+## Deliverables
+
+* We've created our assembly type and configured the display in the Drupal admin interface
+
+[Previous Page](./1-design-and-fe-component.md)
+[Next Page](./3-adding-assembly-reference-fields.md)

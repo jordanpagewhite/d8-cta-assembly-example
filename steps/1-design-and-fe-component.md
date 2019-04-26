@@ -114,5 +114,5 @@ This is an example of the styles of our CTA assembly type could be:
 
 * The HTML markup (probably Twig) and assets (CSS, SCSS, JS, possibly images, etc.) required to satisfy the mockups.
 
-[Previous page](./0-ux-mockup-and-data-structure.md)
+[Previous page](./0-mockup-and-data-structure.md)
 [Next page](./2-creating-the-cta-assembly-type.md)

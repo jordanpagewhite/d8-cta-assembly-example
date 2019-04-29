@@ -2,7 +2,7 @@
 
 ## Roles
 
-* A Drupal developer: This could be any developer/anyone that is proficient in utilizing the Drupal admin UI.
+* A Drupal sitebuilder: Programming not required. This involves a series of changes within the Drupal admin interface.
 
 ## Creating the assembly type
 
@@ -16,22 +16,9 @@ left|Left|Left aligned content
 dark|Dark|Dark background with white text
 ```
 
-Visual styles are a way to provide a configurable set of styles that an editor/content author can use on an assembly to provide variations of a component (like a BEM modifier). These are the styles, which you can review in full on the [previous page](./1-design-and-fe-component.md), for the Left and Dark visual styles:
+Visual styles are a way to provide a configurable set of styles that an editor/content author can use on an assembly to provide variations of a component.
 
-```scss
-&.left {
-  float: none !important;
-  text-align: left;
-  .header {
-    text-align: left;
-  }
-}
-&.dark {
-  background: #242424;
-}
-```
-
-After adding the label, description and visual styles, click the Save button to submit this assembly type add form.
+  * After adding the label, description and visual styles, click the Save button to submit this assembly type add form.
 
 2. After creating your assembly type, you can review the fields on your assembly type here: `/admin/structure/assembly/call_to_action/fields`. By default, no fields will exist on your new assembly type. Here is a screenshot of the fields we want to create on our CTA assembly type with their machine names and field types:
 

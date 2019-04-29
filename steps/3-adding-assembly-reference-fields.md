@@ -2,7 +2,7 @@
 
 ## Roles
 
-* A Drupal developer
+* A Drupal sitebuilder: Programming not required. This involves a series of changes within the Drupal admin interface.
 
 ## Steps
 

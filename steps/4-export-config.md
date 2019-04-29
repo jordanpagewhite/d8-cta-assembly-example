@@ -2,7 +2,7 @@
 
 ## Roles
 
-* A Drupal developer
+* Web developer: This requires command-line access and the ability to issue a pull request against the git repository.
 
 ## Steps
 

@@ -26,7 +26,7 @@ Here is a demonstration of how we could add an existing CTA assembly to our Cont
 
 This is what the Content field will look like after we've added a CTA assembly to our Content field:
 
-![Content Field Compose Widget](../img/content-field-table-compose-widget.png "Content Field Compose Widget")
+![Content Field Compose Widget](../img/content-field-compose-widget.png "Content Field Compose Widget")
 
 ## Deliverables
 
